@@ -1,6 +1,11 @@
 .body {
     width: 400px;
+    height: 450px;
     margin: 0 auto;
+}
+
+.main {
+    height: 250px;
 }
 
 .red {
@@ -21,10 +26,31 @@
     float: left;
 }
 
+.violet {
+    height: 50px;
+    width: 150px;
+    background: #cc00db;
+    float: right;
+}
+
+.orange {
+    height: 150px;
+    width: 100px;
+    background: #ff9e6b;
+    float: right;
+}
+
 .blue {
-    height: 250px;
+    height: 100px;
+    width: 150px;
+    background: #0093b7;
+    float: right;
+}
+
+.brown {
+    height: 100px;
     width: 250px;
-    background: #3300ff;
+    background: #8c2727;
     float: right;
 }
 
