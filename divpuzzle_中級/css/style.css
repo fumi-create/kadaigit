@@ -1,60 +1,60 @@
 .body {
-    width: 400px;
-    margin: 0 auto;
+	width: 400px;
+	margin: 0 auto;
 }
 
 .red {
-    height: 100px;
-    background: #ff0000;
+	height: 100px;
+	background: #ff0000;
 }
 
 .clearfix:after {
-    content: "";
-    display: block;
-    clear: both;
+	content: "";
+	display: block;
+	clear: both;
 }
 
 .green {
-    height: 250px;
-    width: 150px;
-    background: #00ff1e;
-    float: left;
+	height: 250px;
+	width: 150px;
+	background: #00ff1e;
+	float: left;
 }
 
 .other {
-    float: left;
+	float: left;
 }
 
 .orange {
-    height: 150px;
-    width: 100px;
-    background: #ff9e6b;
-    float: left;
+	height: 150px;
+	width: 100px;
+	background: #ff9e6b;
+	float: left;
 }
 
 .violet_blue {
-    float: left;
+	float: left;
 }
 
 .violet {
-    height: 50px;
-    width: 150px;
-    background: #cc00db;
+	height: 50px;
+	width: 150px;
+	background: #cc00db;
 }
 
 .blue {
-    height: 100px;
-    width: 150px;
-    background: #0093b7;
+	height: 100px;
+	width: 150px;
+	background: #0093b7;
 }
 
 .brown {
-    height: 100px;
-    width: 250px;
-    background: #8c2727;
+	height: 100px;
+	width: 250px;
+	background: #8c2727;
 }
 
 .yellow {
-    height: 100px;
-    background: #ffe600;
+	height: 100px;
+	background: #ffe600;
 }
