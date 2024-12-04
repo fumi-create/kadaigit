@@ -15,23 +15,18 @@
 	top: 20px;
 	right: 20px;
 }
-
-.violet_group2 {
-	margin: 0 auto;
-}
-
 .violet {
 	width: 40px;
 	height: 40px;
 	background: #a9004b;
-	margin: 10px 5px;
+	margin:10px;
 	float: left;
 }
-.violet1{
-margin-left: 10px;
+.violet:nth-child(1){
+  margin-right:0 ;
 }
-.violet3{
-margin-right: 10px;	
+.violet:nth-child(3){
+  margin-left:0 ;
 }
 .clearfix:after {
 	content: "";
@@ -49,9 +44,6 @@ margin-right: 10px;
 .brown-group {
 	float: left;
 	position: relative;
-}
-
-.brown {
 	height: 250px;
 	width: 250px;
 	background: #8c2727;
@@ -69,9 +61,10 @@ margin-right: 10px;
 	background: #ff9e6b;
 	border: solid 5px #ffffff;
 	margin-bottom: 10px;
-
 }
-
+.orange:nth-child(3){
+	margin-bottom: 0;
+}
 .yellow {
 	height: 100px;
 	background: #ffe600;
