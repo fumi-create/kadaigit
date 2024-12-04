@@ -11,16 +11,13 @@
 
 .violet_group {
 	background: #ffffff;
-	padding-left: 5px;
-	padding-right: 5px;
 	position: absolute;
 	top: 20px;
-	right: 95px;
+	right: 20px;
 }
 
 .violet_group2 {
 	margin: 0 auto;
-	left: -50%;
 }
 
 .violet {
@@ -30,7 +27,12 @@
 	margin: 10px 5px;
 	float: left;
 }
-
+.violet1{
+margin-left: 10px;
+}
+.violet3{
+margin-right: 10px;	
+}
 .clearfix:after {
 	content: "";
 	display: block;
