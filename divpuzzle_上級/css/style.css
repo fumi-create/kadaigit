@@ -11,6 +11,7 @@
 
 .violet_group {
 	background: #ffffff;
+	padding: 10px;
 	position: absolute;
 	top: 20px;
 	right: 20px;
@@ -19,14 +20,14 @@
 	width: 40px;
 	height: 40px;
 	background: #a9004b;
-	margin:10px;
+	margin:0 10px;
 	float: left;
 }
 .violet:nth-child(1){
-  margin-right:0 ;
+  margin:0;
 }
 .violet:nth-child(3){
-  margin-left:0 ;
+  margin:0;
 }
 .clearfix:after {
 	content: "";
@@ -54,7 +55,6 @@
 	top: 40px;
 	left: 40px;
 }
-
 .orange {
 	height: 40px;
 	width: 140px;
