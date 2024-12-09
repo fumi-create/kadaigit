@@ -23,10 +23,10 @@
 	margin:0 10px;
 	float: left;
 }
-.violet:nth-child(1){
+.violet:first-child{
   margin:0;
 }
-.violet:nth-child(3){
+.violet:last-child{
   margin:0;
 }
 .clearfix:after {
