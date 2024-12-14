@@ -20,15 +20,13 @@
 	width: 40px;
 	height: 40px;
 	background: #a9004b;
-	margin:0 10px;
+	margin-left: 10px;
 	float: left;
 }
 .violet:first-child{
   margin:0;
 }
-.violet:last-child{
-  margin:0;
-}
+
 .clearfix:after {
 	content: "";
 	display: block;
@@ -62,7 +60,7 @@
 	border: solid 5px #ffffff;
 	margin-bottom: 10px;
 }
-.orange:nth-child(3){
+.orange:last-child{
 	margin-bottom: 0;
 }
 .yellow {
